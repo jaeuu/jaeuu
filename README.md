@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 ~ 푸터 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20🥳&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,World!%20😀&fontSize=70)
 
 <h3 align="center">
-    👩🏻‍💻 Skills 👩🏻‍💻
+    👨‍💻 Skills 👨‍💻
 </h3>
 
 <p align="center">
@@ -37,8 +37,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> 
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+    
 </p>
   
 
